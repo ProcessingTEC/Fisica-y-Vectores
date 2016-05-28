@@ -6,6 +6,7 @@ Conceptos a aprender:
 * Partículas en espacio 2D
 * Interacción de particulas
 * Uso de librería ControlP5
+* Uso de objetos PVector
 
 
 ##Partículas
