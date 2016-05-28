@@ -14,3 +14,6 @@ Conceptos a aprender:
 
 ##Attracción y repulsión
 <img src="https://github.com/ProcessingTEC/Fisica-y-Vectores/blob/master/P_S4_Attraction1/attractor.png" width="100">
+
+##Grid
+<img src="https://github.com/ProcessingTEC/Fisica-y-Vectores/blob/master/P_S4_Grid/grid.png" width="100">
