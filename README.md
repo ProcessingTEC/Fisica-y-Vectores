@@ -29,4 +29,4 @@ Conceptos a aprender:
 
 ##Librería Box2D
 
-Descargar la versión en [GitHub](https://github.com/shiffman/Box2D-for-Processing)
+Se puede descargar directamente en el menú: Sketch-Import Library-Add Library...  Si no lo encuentra, lo puede descargar la versión en [GitHub](https://github.com/shiffman/Box2D-for-Processing). 
