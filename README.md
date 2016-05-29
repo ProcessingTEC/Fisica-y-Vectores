@@ -6,7 +6,7 @@ La capacidad de poder crear visualicaciónes, sumado a poder programar propiedad
 
 Existen varias librerías para simular objetos y partículas con propiedades físicas en processing. Estas librerías son prácticas, sin embargo su utilización a veces no es tan directa, y resulta más sencillo programar directamente partículas con propiedades físicas utilizando PVector y desarrollando objetos.  En esta sección se trabaja desarrollando ejemplos programados directamente, y ejemplos con librerías.
 
-* Librería Box2D. Recomiendo el capítulo 5 de el libreo de [Nature of Code](http://natureofcode.com/book/chapter-5-physics-libraries/)
+* Librería Box2D. Recomiendo el capítulo 5 de el libro de [Nature of Code](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Fisica, una librería hecha por Ricard Marxer [Fisica](http://www.ricardmarxer.com/fisica/)
 
 ##Objetivos
@@ -26,3 +26,5 @@ Conceptos a aprender:
 
 ##Grid
 <img src="https://github.com/ProcessingTEC/Fisica-y-Vectores/blob/master/P_S4_Grid/grid.png" width="100"><img src="https://github.com/ProcessingTEC/Fisica-y-Vectores/blob/master/P_S4_Grid2/grid2.png" width="100">
+
+##Librería Box2D
