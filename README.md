@@ -1,6 +1,6 @@
 # Fisica y Vectores
 
-La capacidad de poder crear visualicaciónes, sumado a poder programar propiedads físicas de sistemas, hace de processing una herramienta útil para la simulación.  En esta sección exploramos algunos aspectos de partículas y simulación.  Los códigos de proveen de base para er alterados, para crear sistemas robustos de partículas o simulación de sistemas físicos multi-agente.
+La capacidad de poder crear visualicaciónes, sumado a poder programar propiedads físicas de sistemas (ondas, vectores y fuerzas), hace de processing una herramienta útil para la simulación.  En esta sección exploramos algunos aspectos de partículas y simulación.  Los códigos de proveen de base para er alterados, para crear sistemas robustos de partículas o simulación de sistemas físicos multi-agente.
 
 ##Librerías
 
